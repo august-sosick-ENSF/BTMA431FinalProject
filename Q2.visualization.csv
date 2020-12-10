@@ -1,0 +1,1365 @@
+"","Year","Country","Number of Significant Volcanic Eruptions","Number of Significant Earthquakes"
+"1",1987,"Antarctica",0,0
+"2",1987,"Cameroon",0,0
+"3",1987,"Canada",0,0
+"4",1987,"Chile",0,2
+"5",1987,"China",0,3
+"6",1987,"Colombia",0,0
+"7",1987,"Costa Rica",0,0
+"8",1987,"Ecuador",0,2
+"9",1987,"El Salvador",0,0
+"10",1987,"Eritrea",0,0
+"11",1987,"Ethiopia",0,0
+"12",1987,"Greece",0,0
+"13",1987,"Guadeloupe",0,0
+"14",1987,"Guatemala",1,0
+"15",1987,"Iceland",0,0
+"16",1987,"Indonesia",1,2
+"17",1987,"Italy",1,1
+"18",1987,"Japan",0,4
+"19",1987,"Martinique",0,0
+"20",1987,"Mexico",0,0
+"21",1987,"Montserrat",0,0
+"22",1987,"New Zealand",0,1
+"23",1987,"Nicaragua",0,0
+"24",1987,"North Korea",0,0
+"25",1987,"Pacific Ocean",0,0
+"26",1987,"Papua New Guinea",0,3
+"27",1987,"Peru",0,2
+"28",1987,"Philippines",0,2
+"29",1987,"Portugal",0,0
+"30",1987,"Russia",0,0
+"31",1987,"Saint Vincent and the Grenadines",0,0
+"32",1987,"Samoa",0,0
+"33",1987,"Saudi Arabia",0,0
+"34",1987,"Solomon Islands",0,1
+"35",1987,"Spain",0,0
+"36",1987,"Taiwan",0,0
+"37",1987,"Tanzania",0,0
+"38",1987,"Tonga",0,1
+"39",1987,"Trinidad and Tobago",0,0
+"40",1987,"Turkey",0,0
+"41",1987,"United States",0,5
+"42",1987,"Vanuatu",0,1
+"43",1987,"World",3,33
+"44",1987,"Yemen",0,0
+"45",1988,"Antarctica",0,0
+"46",1988,"Cameroon",0,0
+"47",1988,"Canada",0,1
+"48",1988,"Chile",1,1
+"49",1988,"China",0,4
+"50",1988,"Colombia",0,0
+"51",1988,"Costa Rica",1,0
+"52",1988,"Ecuador",0,0
+"53",1988,"El Salvador",0,0
+"54",1988,"Eritrea",0,0
+"55",1988,"Ethiopia",0,0
+"56",1988,"Greece",0,1
+"57",1988,"Guadeloupe",0,0
+"58",1988,"Guatemala",0,1
+"59",1988,"Iceland",0,0
+"60",1988,"Indonesia",1,0
+"61",1988,"Italy",0,0
+"62",1988,"Japan",1,0
+"63",1988,"Martinique",0,0
+"64",1988,"Mexico",0,0
+"65",1988,"Montserrat",0,0
+"66",1988,"New Zealand",0,0
+"67",1988,"Nicaragua",0,0
+"68",1988,"North Korea",0,0
+"69",1988,"Pacific Ocean",1,0
+"70",1988,"Papua New Guinea",0,2
+"71",1988,"Peru",0,0
+"72",1988,"Philippines",0,3
+"73",1988,"Portugal",0,0
+"74",1988,"Russia",0,0
+"75",1988,"Saint Vincent and the Grenadines",0,0
+"76",1988,"Samoa",0,0
+"77",1988,"Saudi Arabia",0,0
+"78",1988,"Solomon Islands",0,1
+"79",1988,"Spain",0,0
+"80",1988,"Taiwan",0,1
+"81",1988,"Tanzania",0,0
+"82",1988,"Tonga",0,0
+"83",1988,"Trinidad and Tobago",0,0
+"84",1988,"Turkey",0,0
+"85",1988,"United States",0,1
+"86",1988,"Vanuatu",0,0
+"87",1988,"World",5,30
+"88",1988,"Yemen",0,0
+"89",1989,"Antarctica",0,0
+"90",1989,"Cameroon",0,0
+"91",1989,"Canada",0,0
+"92",1989,"Chile",0,0
+"93",1989,"China",0,5
+"94",1989,"Colombia",0,0
+"95",1989,"Costa Rica",0,0
+"96",1989,"Ecuador",0,1
+"97",1989,"El Salvador",0,0
+"98",1989,"Eritrea",0,0
+"99",1989,"Ethiopia",0,0
+"100",1989,"Greece",0,0
+"101",1989,"Guadeloupe",0,0
+"102",1989,"Guatemala",0,0
+"103",1989,"Iceland",0,0
+"104",1989,"Indonesia",0,4
+"105",1989,"Italy",0,0
+"106",1989,"Japan",2,3
+"107",1989,"Martinique",0,0
+"108",1989,"Mexico",0,1
+"109",1989,"Montserrat",0,0
+"110",1989,"New Zealand",0,0
+"111",1989,"Nicaragua",0,0
+"112",1989,"North Korea",0,0
+"113",1989,"Pacific Ocean",0,0
+"114",1989,"Papua New Guinea",0,1
+"115",1989,"Peru",0,0
+"116",1989,"Philippines",0,1
+"117",1989,"Portugal",0,0
+"118",1989,"Russia",0,1
+"119",1989,"Saint Vincent and the Grenadines",0,0
+"120",1989,"Samoa",0,0
+"121",1989,"Saudi Arabia",0,0
+"122",1989,"Solomon Islands",0,0
+"123",1989,"Spain",0,0
+"124",1989,"Taiwan",0,0
+"125",1989,"Tanzania",0,0
+"126",1989,"Tonga",0,0
+"127",1989,"Trinidad and Tobago",0,0
+"128",1989,"Turkey",0,1
+"129",1989,"United States",0,3
+"130",1989,"Vanuatu",0,0
+"131",1989,"World",2,35
+"132",1989,"Yemen",0,0
+"133",1990,"Antarctica",0,0
+"134",1990,"Cameroon",0,0
+"135",1990,"Canada",0,0
+"136",1990,"Chile",0,0
+"137",1990,"China",0,3
+"138",1990,"Colombia",0,0
+"139",1990,"Costa Rica",0,3
+"140",1990,"Ecuador",0,1
+"141",1990,"El Salvador",0,0
+"142",1990,"Eritrea",0,0
+"143",1990,"Ethiopia",0,0
+"144",1990,"Greece",0,1
+"145",1990,"Guadeloupe",0,0
+"146",1990,"Guatemala",1,0
+"147",1990,"Iceland",0,0
+"148",1990,"Indonesia",2,3
+"149",1990,"Italy",0,2
+"150",1990,"Japan",3,2
+"151",1990,"Martinique",0,0
+"152",1990,"Mexico",0,0
+"153",1990,"Montserrat",0,0
+"154",1990,"New Zealand",0,1
+"155",1990,"Nicaragua",0,0
+"156",1990,"North Korea",0,0
+"157",1990,"Pacific Ocean",0,0
+"158",1990,"Papua New Guinea",1,1
+"159",1990,"Peru",1,2
+"160",1990,"Philippines",0,4
+"161",1990,"Portugal",0,0
+"162",1990,"Russia",1,0
+"163",1990,"Saint Vincent and the Grenadines",0,0
+"164",1990,"Samoa",0,0
+"165",1990,"Saudi Arabia",0,0
+"166",1990,"Solomon Islands",0,0
+"167",1990,"Spain",0,0
+"168",1990,"Taiwan",0,2
+"169",1990,"Tanzania",0,0
+"170",1990,"Tonga",0,0
+"171",1990,"Trinidad and Tobago",0,0
+"172",1990,"Turkey",0,1
+"173",1990,"United States",0,1
+"174",1990,"Vanuatu",0,1
+"175",1990,"World",10,51
+"176",1990,"Yemen",0,0
+"177",1991,"Antarctica",0,0
+"178",1991,"Cameroon",0,0
+"179",1991,"Canada",0,0
+"180",1991,"Chile",1,0
+"181",1991,"China",0,2
+"182",1991,"Colombia",0,1
+"183",1991,"Costa Rica",0,2
+"184",1991,"Ecuador",0,0
+"185",1991,"El Salvador",0,0
+"186",1991,"Eritrea",0,0
+"187",1991,"Ethiopia",0,0
+"188",1991,"Greece",0,0
+"189",1991,"Guadeloupe",0,0
+"190",1991,"Guatemala",0,1
+"191",1991,"Iceland",0,0
+"192",1991,"Indonesia",1,2
+"193",1991,"Italy",1,0
+"194",1991,"Japan",1,0
+"195",1991,"Martinique",0,0
+"196",1991,"Mexico",0,0
+"197",1991,"Montserrat",0,0
+"198",1991,"New Zealand",0,1
+"199",1991,"Nicaragua",0,0
+"200",1991,"North Korea",0,0
+"201",1991,"Pacific Ocean",0,0
+"202",1991,"Papua New Guinea",0,0
+"203",1991,"Peru",0,3
+"204",1991,"Philippines",1,1
+"205",1991,"Portugal",0,0
+"206",1991,"Russia",1,2
+"207",1991,"Saint Vincent and the Grenadines",0,0
+"208",1991,"Samoa",0,0
+"209",1991,"Saudi Arabia",0,0
+"210",1991,"Solomon Islands",0,2
+"211",1991,"Spain",0,0
+"212",1991,"Taiwan",0,0
+"213",1991,"Tanzania",0,0
+"214",1991,"Tonga",0,0
+"215",1991,"Trinidad and Tobago",0,0
+"216",1991,"Turkey",0,2
+"217",1991,"United States",0,2
+"218",1991,"Vanuatu",0,0
+"219",1991,"World",7,42
+"220",1991,"Yemen",0,1
+"221",1992,"Antarctica",0,0
+"222",1992,"Cameroon",0,0
+"223",1992,"Canada",0,0
+"224",1992,"Chile",0,0
+"225",1992,"China",0,1
+"226",1992,"Colombia",0,2
+"227",1992,"Costa Rica",0,0
+"228",1992,"Ecuador",0,0
+"229",1992,"El Salvador",0,0
+"230",1992,"Eritrea",0,0
+"231",1992,"Ethiopia",0,0
+"232",1992,"Greece",0,0
+"233",1992,"Guadeloupe",0,0
+"234",1992,"Guatemala",0,0
+"235",1992,"Iceland",0,0
+"236",1992,"Indonesia",5,2
+"237",1992,"Italy",0,0
+"238",1992,"Japan",0,3
+"239",1992,"Martinique",0,0
+"240",1992,"Mexico",0,0
+"241",1992,"Montserrat",0,0
+"242",1992,"New Zealand",0,0
+"243",1992,"Nicaragua",1,1
+"244",1992,"North Korea",0,0
+"245",1992,"Pacific Ocean",0,0
+"246",1992,"Papua New Guinea",0,0
+"247",1992,"Peru",0,0
+"248",1992,"Philippines",1,1
+"249",1992,"Portugal",0,0
+"250",1992,"Russia",0,0
+"251",1992,"Saint Vincent and the Grenadines",0,0
+"252",1992,"Samoa",0,0
+"253",1992,"Saudi Arabia",0,0
+"254",1992,"Solomon Islands",0,1
+"255",1992,"Spain",0,0
+"256",1992,"Taiwan",0,0
+"257",1992,"Tanzania",0,0
+"258",1992,"Tonga",0,0
+"259",1992,"Trinidad and Tobago",0,0
+"260",1992,"Turkey",0,1
+"261",1992,"United States",1,5
+"262",1992,"Vanuatu",0,0
+"263",1992,"World",8,27
+"264",1992,"Yemen",0,0
+"265",1993,"Antarctica",0,0
+"266",1993,"Cameroon",0,0
+"267",1993,"Canada",0,0
+"268",1993,"Chile",0,0
+"269",1993,"China",0,3
+"270",1993,"Colombia",1,0
+"271",1993,"Costa Rica",0,1
+"272",1993,"Ecuador",1,0
+"273",1993,"El Salvador",0,0
+"274",1993,"Eritrea",0,0
+"275",1993,"Ethiopia",0,0
+"276",1993,"Greece",0,1
+"277",1993,"Guadeloupe",0,0
+"278",1993,"Guatemala",0,1
+"279",1993,"Iceland",0,0
+"280",1993,"Indonesia",2,0
+"281",1993,"Italy",0,0
+"282",1993,"Japan",1,4
+"283",1993,"Martinique",0,0
+"284",1993,"Mexico",0,0
+"285",1993,"Montserrat",0,0
+"286",1993,"New Zealand",0,0
+"287",1993,"Nicaragua",0,0
+"288",1993,"North Korea",0,0
+"289",1993,"Pacific Ocean",0,0
+"290",1993,"Papua New Guinea",0,1
+"291",1993,"Peru",0,1
+"292",1993,"Philippines",3,0
+"293",1993,"Portugal",0,0
+"294",1993,"Russia",0,2
+"295",1993,"Saint Vincent and the Grenadines",0,0
+"296",1993,"Samoa",0,0
+"297",1993,"Saudi Arabia",0,0
+"298",1993,"Solomon Islands",0,0
+"299",1993,"Spain",0,0
+"300",1993,"Taiwan",0,0
+"301",1993,"Tanzania",0,0
+"302",1993,"Tonga",0,0
+"303",1993,"Trinidad and Tobago",0,0
+"304",1993,"Turkey",0,0
+"305",1993,"United States",1,2
+"306",1993,"Vanuatu",0,0
+"307",1993,"World",9,26
+"308",1993,"Yemen",0,0
+"309",1994,"Antarctica",0,0
+"310",1994,"Cameroon",0,0
+"311",1994,"Canada",0,0
+"312",1994,"Chile",0,0
+"313",1994,"China",0,2
+"314",1994,"Colombia",1,1
+"315",1994,"Costa Rica",0,0
+"316",1994,"Ecuador",0,0
+"317",1994,"El Salvador",0,0
+"318",1994,"Eritrea",0,0
+"319",1994,"Ethiopia",0,0
+"320",1994,"Greece",0,0
+"321",1994,"Guadeloupe",0,0
+"322",1994,"Guatemala",0,0
+"323",1994,"Iceland",0,0
+"324",1994,"Indonesia",3,7
+"325",1994,"Italy",0,0
+"326",1994,"Japan",1,2
+"327",1994,"Martinique",0,0
+"328",1994,"Mexico",0,0
+"329",1994,"Montserrat",0,0
+"330",1994,"New Zealand",0,1
+"331",1994,"Nicaragua",0,0
+"332",1994,"North Korea",0,0
+"333",1994,"Pacific Ocean",0,0
+"334",1994,"Papua New Guinea",1,0
+"335",1994,"Peru",0,0
+"336",1994,"Philippines",0,1
+"337",1994,"Portugal",0,0
+"338",1994,"Russia",0,2
+"339",1994,"Saint Vincent and the Grenadines",0,0
+"340",1994,"Samoa",0,0
+"341",1994,"Saudi Arabia",0,0
+"342",1994,"Solomon Islands",0,0
+"343",1994,"Spain",0,0
+"344",1994,"Taiwan",0,2
+"345",1994,"Tanzania",0,0
+"346",1994,"Tonga",0,0
+"347",1994,"Trinidad and Tobago",0,0
+"348",1994,"Turkey",0,0
+"349",1994,"United States",0,5
+"350",1994,"Vanuatu",1,0
+"351",1994,"World",7,32
+"352",1994,"Yemen",0,0
+"353",1995,"Antarctica",0,0
+"354",1995,"Cameroon",0,0
+"355",1995,"Canada",0,0
+"356",1995,"Chile",0,2
+"357",1995,"China",0,3
+"358",1995,"Colombia",0,2
+"359",1995,"Costa Rica",0,0
+"360",1995,"Ecuador",0,1
+"361",1995,"El Salvador",0,0
+"362",1995,"Eritrea",0,0
+"363",1995,"Ethiopia",0,0
+"364",1995,"Greece",0,2
+"365",1995,"Guadeloupe",0,0
+"366",1995,"Guatemala",1,0
+"367",1995,"Iceland",0,0
+"368",1995,"Indonesia",1,3
+"369",1995,"Italy",0,0
+"370",1995,"Japan",1,4
+"371",1995,"Martinique",0,0
+"372",1995,"Mexico",0,2
+"373",1995,"Montserrat",0,0
+"374",1995,"New Zealand",0,1
+"375",1995,"Nicaragua",0,0
+"376",1995,"North Korea",0,0
+"377",1995,"Pacific Ocean",0,0
+"378",1995,"Papua New Guinea",0,1
+"379",1995,"Peru",0,0
+"380",1995,"Philippines",1,2
+"381",1995,"Portugal",0,0
+"382",1995,"Russia",0,2
+"383",1995,"Saint Vincent and the Grenadines",0,0
+"384",1995,"Samoa",0,1
+"385",1995,"Saudi Arabia",0,0
+"386",1995,"Solomon Islands",0,0
+"387",1995,"Spain",0,0
+"388",1995,"Taiwan",0,0
+"389",1995,"Tanzania",0,0
+"390",1995,"Tonga",0,0
+"391",1995,"Trinidad and Tobago",0,0
+"392",1995,"Turkey",0,1
+"393",1995,"United States",0,1
+"394",1995,"Vanuatu",1,0
+"395",1995,"World",6,31
+"396",1995,"Yemen",0,0
+"397",1996,"Antarctica",0,0
+"398",1996,"Cameroon",0,0
+"399",1996,"Canada",0,0
+"400",1996,"Chile",0,1
+"401",1996,"China",0,3
+"402",1996,"Colombia",0,0
+"403",1996,"Costa Rica",0,0
+"404",1996,"Ecuador",0,1
+"405",1996,"El Salvador",0,0
+"406",1996,"Eritrea",0,0
+"407",1996,"Ethiopia",0,0
+"408",1996,"Greece",0,0
+"409",1996,"Guadeloupe",0,0
+"410",1996,"Guatemala",0,0
+"411",1996,"Iceland",1,0
+"412",1996,"Indonesia",0,2
+"413",1996,"Italy",0,0
+"414",1996,"Japan",0,4
+"415",1996,"Martinique",0,0
+"416",1996,"Mexico",1,1
+"417",1996,"Montserrat",0,0
+"418",1996,"New Zealand",0,0
+"419",1996,"Nicaragua",1,0
+"420",1996,"North Korea",0,0
+"421",1996,"Pacific Ocean",0,0
+"422",1996,"Papua New Guinea",1,0
+"423",1996,"Peru",0,2
+"424",1996,"Philippines",1,0
+"425",1996,"Portugal",0,0
+"426",1996,"Russia",1,0
+"427",1996,"Saint Vincent and the Grenadines",0,0
+"428",1996,"Samoa",0,0
+"429",1996,"Saudi Arabia",0,0
+"430",1996,"Solomon Islands",0,1
+"431",1996,"Spain",0,0
+"432",1996,"Taiwan",0,1
+"433",1996,"Tanzania",0,0
+"434",1996,"Tonga",0,0
+"435",1996,"Trinidad and Tobago",0,0
+"436",1996,"Turkey",0,0
+"437",1996,"United States",0,2
+"438",1996,"Vanuatu",0,0
+"439",1996,"World",6,19
+"440",1996,"Yemen",0,0
+"441",1997,"Antarctica",0,0
+"442",1997,"Cameroon",0,0
+"443",1997,"Canada",0,0
+"444",1997,"Chile",0,1
+"445",1997,"China",0,6
+"446",1997,"Colombia",0,0
+"447",1997,"Costa Rica",0,0
+"448",1997,"Ecuador",0,0
+"449",1997,"El Salvador",0,0
+"450",1997,"Eritrea",0,0
+"451",1997,"Ethiopia",0,0
+"452",1997,"Greece",0,1
+"453",1997,"Guadeloupe",0,0
+"454",1997,"Guatemala",0,0
+"455",1997,"Iceland",0,0
+"456",1997,"Indonesia",3,3
+"457",1997,"Italy",0,2
+"458",1997,"Japan",3,2
+"459",1997,"Martinique",0,0
+"460",1997,"Mexico",0,1
+"461",1997,"Montserrat",3,0
+"462",1997,"New Zealand",0,0
+"463",1997,"Nicaragua",0,0
+"464",1997,"North Korea",0,0
+"465",1997,"Pacific Ocean",0,0
+"466",1997,"Papua New Guinea",0,0
+"467",1997,"Peru",0,0
+"468",1997,"Philippines",0,0
+"469",1997,"Portugal",0,0
+"470",1997,"Russia",0,1
+"471",1997,"Saint Vincent and the Grenadines",0,0
+"472",1997,"Samoa",0,0
+"473",1997,"Saudi Arabia",0,0
+"474",1997,"Solomon Islands",0,1
+"475",1997,"Spain",0,0
+"476",1997,"Taiwan",0,0
+"477",1997,"Tanzania",0,0
+"478",1997,"Tonga",0,1
+"479",1997,"Trinidad and Tobago",0,1
+"480",1997,"Turkey",0,0
+"481",1997,"United States",0,0
+"482",1997,"Vanuatu",0,0
+"483",1997,"World",9,34
+"484",1997,"Yemen",0,0
+"485",1998,"Antarctica",0,1
+"486",1998,"Cameroon",0,0
+"487",1998,"Canada",0,0
+"488",1998,"Chile",0,0
+"489",1998,"China",0,6
+"490",1998,"Colombia",0,0
+"491",1998,"Costa Rica",0,0
+"492",1998,"Ecuador",0,1
+"493",1998,"El Salvador",0,0
+"494",1998,"Eritrea",0,0
+"495",1998,"Ethiopia",0,0
+"496",1998,"Greece",0,0
+"497",1998,"Guadeloupe",0,0
+"498",1998,"Guatemala",0,1
+"499",1998,"Iceland",0,0
+"500",1998,"Indonesia",1,2
+"501",1998,"Italy",0,1
+"502",1998,"Japan",0,0
+"503",1998,"Martinique",0,0
+"504",1998,"Mexico",0,1
+"505",1998,"Montserrat",0,0
+"506",1998,"New Zealand",0,0
+"507",1998,"Nicaragua",1,0
+"508",1998,"North Korea",0,0
+"509",1998,"Pacific Ocean",0,0
+"510",1998,"Papua New Guinea",0,1
+"511",1998,"Peru",0,0
+"512",1998,"Philippines",0,0
+"513",1998,"Portugal",0,0
+"514",1998,"Russia",0,0
+"515",1998,"Saint Vincent and the Grenadines",0,0
+"516",1998,"Samoa",0,0
+"517",1998,"Saudi Arabia",0,0
+"518",1998,"Solomon Islands",0,0
+"519",1998,"Spain",0,0
+"520",1998,"Taiwan",0,2
+"521",1998,"Tanzania",0,0
+"522",1998,"Tonga",0,0
+"523",1998,"Trinidad and Tobago",0,0
+"524",1998,"Turkey",0,1
+"525",1998,"United States",1,0
+"526",1998,"Vanuatu",0,0
+"527",1998,"World",3,30
+"528",1998,"Yemen",0,0
+"529",1999,"Antarctica",0,0
+"530",1999,"Cameroon",0,0
+"531",1999,"Canada",0,0
+"532",1999,"Chile",0,0
+"533",1999,"China",0,4
+"534",1999,"Colombia",0,1
+"535",1999,"Costa Rica",0,0
+"536",1999,"Ecuador",2,0
+"537",1999,"El Salvador",0,0
+"538",1999,"Eritrea",0,0
+"539",1999,"Ethiopia",0,0
+"540",1999,"Greece",0,1
+"541",1999,"Guadeloupe",0,0
+"542",1999,"Guatemala",1,1
+"543",1999,"Iceland",0,0
+"544",1999,"Indonesia",0,1
+"545",1999,"Italy",0,0
+"546",1999,"Japan",0,0
+"547",1999,"Martinique",0,0
+"548",1999,"Mexico",0,3
+"549",1999,"Montserrat",1,0
+"550",1999,"New Zealand",0,0
+"551",1999,"Nicaragua",0,0
+"552",1999,"North Korea",0,0
+"553",1999,"Pacific Ocean",0,0
+"554",1999,"Papua New Guinea",0,0
+"555",1999,"Peru",0,2
+"556",1999,"Philippines",0,1
+"557",1999,"Portugal",0,0
+"558",1999,"Russia",1,1
+"559",1999,"Saint Vincent and the Grenadines",0,0
+"560",1999,"Samoa",0,0
+"561",1999,"Saudi Arabia",0,0
+"562",1999,"Solomon Islands",0,0
+"563",1999,"Spain",0,1
+"564",1999,"Taiwan",0,3
+"565",1999,"Tanzania",0,0
+"566",1999,"Tonga",0,0
+"567",1999,"Trinidad and Tobago",0,0
+"568",1999,"Turkey",0,6
+"569",1999,"United States",0,1
+"570",1999,"Vanuatu",0,1
+"571",1999,"World",5,35
+"572",1999,"Yemen",0,0
+"573",2000,"Antarctica",0,0
+"574",2000,"Cameroon",0,0
+"575",2000,"Canada",0,0
+"576",2000,"Chile",0,0
+"577",2000,"China",0,4
+"578",2000,"Colombia",0,0
+"579",2000,"Costa Rica",1,0
+"580",2000,"Ecuador",0,0
+"581",2000,"El Salvador",0,0
+"582",2000,"Eritrea",0,0
+"583",2000,"Ethiopia",0,0
+"584",2000,"Greece",0,1
+"585",2000,"Guadeloupe",0,0
+"586",2000,"Guatemala",0,0
+"587",2000,"Iceland",0,2
+"588",2000,"Indonesia",2,4
+"589",2000,"Italy",0,0
+"590",2000,"Japan",1,5
+"591",2000,"Martinique",0,0
+"592",2000,"Mexico",0,0
+"593",2000,"Montserrat",0,0
+"594",2000,"New Zealand",0,0
+"595",2000,"Nicaragua",0,1
+"596",2000,"North Korea",0,0
+"597",2000,"Pacific Ocean",0,0
+"598",2000,"Papua New Guinea",0,3
+"599",2000,"Peru",0,0
+"600",2000,"Philippines",0,1
+"601",2000,"Portugal",0,0
+"602",2000,"Russia",0,1
+"603",2000,"Saint Vincent and the Grenadines",0,0
+"604",2000,"Samoa",0,0
+"605",2000,"Saudi Arabia",0,0
+"606",2000,"Solomon Islands",0,0
+"607",2000,"Spain",0,0
+"608",2000,"Taiwan",0,2
+"609",2000,"Tanzania",0,1
+"610",2000,"Tonga",0,0
+"611",2000,"Trinidad and Tobago",0,0
+"612",2000,"Turkey",0,3
+"613",2000,"United States",1,1
+"614",2000,"Vanuatu",0,0
+"615",2000,"World",5,37
+"616",2000,"Yemen",0,0
+"617",2001,"Antarctica",0,0
+"618",2001,"Cameroon",0,0
+"619",2001,"Canada",0,1
+"620",2001,"Chile",0,0
+"621",2001,"China",0,5
+"622",2001,"Colombia",0,0
+"623",2001,"Costa Rica",0,0
+"624",2001,"Ecuador",0,0
+"625",2001,"El Salvador",0,3
+"626",2001,"Eritrea",0,0
+"627",2001,"Ethiopia",0,0
+"628",2001,"Greece",0,1
+"629",2001,"Guadeloupe",0,0
+"630",2001,"Guatemala",0,0
+"631",2001,"Iceland",0,0
+"632",2001,"Indonesia",1,1
+"633",2001,"Italy",3,0
+"634",2001,"Japan",0,1
+"635",2001,"Martinique",0,0
+"636",2001,"Mexico",0,0
+"637",2001,"Montserrat",0,0
+"638",2001,"New Zealand",0,0
+"639",2001,"Nicaragua",0,0
+"640",2001,"North Korea",0,0
+"641",2001,"Pacific Ocean",0,0
+"642",2001,"Papua New Guinea",0,0
+"643",2001,"Peru",0,4
+"644",2001,"Philippines",0,1
+"645",2001,"Portugal",0,0
+"646",2001,"Russia",0,0
+"647",2001,"Saint Vincent and the Grenadines",0,0
+"648",2001,"Samoa",0,0
+"649",2001,"Saudi Arabia",0,0
+"650",2001,"Solomon Islands",0,0
+"651",2001,"Spain",0,0
+"652",2001,"Taiwan",0,1
+"653",2001,"Tanzania",0,0
+"654",2001,"Tonga",0,0
+"655",2001,"Trinidad and Tobago",0,0
+"656",2001,"Turkey",0,1
+"657",2001,"United States",0,2
+"658",2001,"Vanuatu",0,0
+"659",2001,"World",4,25
+"660",2001,"Yemen",0,0
+"661",2002,"Antarctica",0,0
+"662",2002,"Cameroon",0,0
+"663",2002,"Canada",0,0
+"664",2002,"Chile",0,3
+"665",2002,"China",0,3
+"666",2002,"Colombia",0,0
+"667",2002,"Costa Rica",0,0
+"668",2002,"Ecuador",1,0
+"669",2002,"El Salvador",0,0
+"670",2002,"Eritrea",0,0
+"671",2002,"Ethiopia",0,0
+"672",2002,"Greece",0,1
+"673",2002,"Guadeloupe",0,0
+"674",2002,"Guatemala",0,0
+"675",2002,"Iceland",0,0
+"676",2002,"Indonesia",2,4
+"677",2002,"Italy",2,3
+"678",2002,"Japan",0,1
+"679",2002,"Martinique",0,0
+"680",2002,"Mexico",0,3
+"681",2002,"Montserrat",0,0
+"682",2002,"New Zealand",0,0
+"683",2002,"Nicaragua",0,0
+"684",2002,"North Korea",0,0
+"685",2002,"Pacific Ocean",0,0
+"686",2002,"Papua New Guinea",0,2
+"687",2002,"Peru",0,0
+"688",2002,"Philippines",0,1
+"689",2002,"Portugal",0,0
+"690",2002,"Russia",0,0
+"691",2002,"Saint Vincent and the Grenadines",0,0
+"692",2002,"Samoa",0,0
+"693",2002,"Saudi Arabia",0,0
+"694",2002,"Solomon Islands",0,0
+"695",2002,"Spain",0,0
+"696",2002,"Taiwan",0,1
+"697",2002,"Tanzania",0,1
+"698",2002,"Tonga",0,0
+"699",2002,"Trinidad and Tobago",0,0
+"700",2002,"Turkey",0,1
+"701",2002,"United States",0,3
+"702",2002,"Vanuatu",0,2
+"703",2002,"World",6,60
+"704",2002,"Yemen",0,0
+"705",2003,"Antarctica",0,1
+"706",2003,"Cameroon",0,0
+"707",2003,"Canada",0,0
+"708",2003,"Chile",0,1
+"709",2003,"China",0,14
+"710",2003,"Colombia",0,0
+"711",2003,"Costa Rica",0,0
+"712",2003,"Ecuador",0,0
+"713",2003,"El Salvador",0,0
+"714",2003,"Eritrea",0,0
+"715",2003,"Ethiopia",0,0
+"716",2003,"Greece",0,2
+"717",2003,"Guadeloupe",0,0
+"718",2003,"Guatemala",0,0
+"719",2003,"Iceland",0,0
+"720",2003,"Indonesia",0,6
+"721",2003,"Italy",0,2
+"722",2003,"Japan",0,6
+"723",2003,"Martinique",0,0
+"724",2003,"Mexico",0,1
+"725",2003,"Montserrat",1,0
+"726",2003,"New Zealand",0,2
+"727",2003,"Nicaragua",0,0
+"728",2003,"North Korea",0,0
+"729",2003,"Pacific Ocean",0,0
+"730",2003,"Papua New Guinea",0,0
+"731",2003,"Peru",0,0
+"732",2003,"Philippines",0,3
+"733",2003,"Portugal",0,0
+"734",2003,"Russia",0,3
+"735",2003,"Saint Vincent and the Grenadines",0,0
+"736",2003,"Samoa",0,0
+"737",2003,"Saudi Arabia",0,0
+"738",2003,"Solomon Islands",0,1
+"739",2003,"Spain",0,0
+"740",2003,"Taiwan",0,1
+"741",2003,"Tanzania",0,0
+"742",2003,"Tonga",0,0
+"743",2003,"Trinidad and Tobago",0,0
+"744",2003,"Turkey",0,5
+"745",2003,"United States",0,5
+"746",2003,"Vanuatu",0,0
+"747",2003,"World",1,72
+"748",2003,"Yemen",0,0
+"749",2004,"Antarctica",0,0
+"750",2004,"Cameroon",0,0
+"751",2004,"Canada",0,1
+"752",2004,"Chile",0,2
+"753",2004,"China",0,5
+"754",2004,"Colombia",0,1
+"755",2004,"Costa Rica",0,1
+"756",2004,"Ecuador",0,0
+"757",2004,"El Salvador",0,0
+"758",2004,"Eritrea",0,0
+"759",2004,"Ethiopia",0,0
+"760",2004,"Greece",0,2
+"761",2004,"Guadeloupe",0,1
+"762",2004,"Guatemala",0,0
+"763",2004,"Iceland",0,0
+"764",2004,"Indonesia",2,12
+"765",2004,"Italy",0,1
+"766",2004,"Japan",0,8
+"767",2004,"Martinique",0,0
+"768",2004,"Mexico",0,1
+"769",2004,"Montserrat",0,0
+"770",2004,"New Zealand",0,2
+"771",2004,"Nicaragua",0,1
+"772",2004,"North Korea",0,0
+"773",2004,"Pacific Ocean",0,0
+"774",2004,"Papua New Guinea",1,0
+"775",2004,"Peru",0,0
+"776",2004,"Philippines",0,1
+"777",2004,"Portugal",0,0
+"778",2004,"Russia",0,1
+"779",2004,"Saint Vincent and the Grenadines",0,0
+"780",2004,"Samoa",0,0
+"781",2004,"Saudi Arabia",0,1
+"782",2004,"Solomon Islands",0,0
+"783",2004,"Spain",0,0
+"784",2004,"Taiwan",0,2
+"785",2004,"Tanzania",0,0
+"786",2004,"Tonga",0,0
+"787",2004,"Trinidad and Tobago",0,1
+"788",2004,"Turkey",0,7
+"789",2004,"United States",0,1
+"790",2004,"Vanuatu",0,0
+"791",2004,"World",3,78
+"792",2004,"Yemen",0,0
+"793",2005,"Antarctica",0,0
+"794",2005,"Cameroon",0,0
+"795",2005,"Canada",0,0
+"796",2005,"Chile",0,2
+"797",2005,"China",0,7
+"798",2005,"Colombia",0,0
+"799",2005,"Costa Rica",0,0
+"800",2005,"Ecuador",0,2
+"801",2005,"El Salvador",1,0
+"802",2005,"Eritrea",0,0
+"803",2005,"Ethiopia",0,1
+"804",2005,"Greece",0,0
+"805",2005,"Guadeloupe",0,1
+"806",2005,"Guatemala",0,0
+"807",2005,"Iceland",0,0
+"808",2005,"Indonesia",0,7
+"809",2005,"Italy",0,0
+"810",2005,"Japan",0,5
+"811",2005,"Martinique",0,0
+"812",2005,"Mexico",0,0
+"813",2005,"Montserrat",0,0
+"814",2005,"New Zealand",0,1
+"815",2005,"Nicaragua",0,0
+"816",2005,"North Korea",0,0
+"817",2005,"Pacific Ocean",0,0
+"818",2005,"Papua New Guinea",1,1
+"819",2005,"Peru",0,3
+"820",2005,"Philippines",0,0
+"821",2005,"Portugal",0,0
+"822",2005,"Russia",0,0
+"823",2005,"Saint Vincent and the Grenadines",0,0
+"824",2005,"Samoa",0,0
+"825",2005,"Saudi Arabia",0,0
+"826",2005,"Solomon Islands",0,0
+"827",2005,"Spain",0,1
+"828",2005,"Taiwan",0,0
+"829",2005,"Tanzania",0,0
+"830",2005,"Tonga",0,0
+"831",2005,"Trinidad and Tobago",0,0
+"832",2005,"Turkey",0,7
+"833",2005,"United States",0,2
+"834",2005,"Vanuatu",0,0
+"835",2005,"World",3,60
+"836",2005,"Yemen",0,0
+"837",2006,"Antarctica",0,0
+"838",2006,"Cameroon",0,0
+"839",2006,"Canada",0,0
+"840",2006,"Chile",0,0
+"841",2006,"China",0,8
+"842",2006,"Colombia",0,0
+"843",2006,"Costa Rica",0,0
+"844",2006,"Ecuador",2,0
+"845",2006,"El Salvador",0,0
+"846",2006,"Eritrea",0,0
+"847",2006,"Ethiopia",0,0
+"848",2006,"Greece",0,2
+"849",2006,"Guadeloupe",0,0
+"850",2006,"Guatemala",0,0
+"851",2006,"Iceland",0,0
+"852",2006,"Indonesia",1,10
+"853",2006,"Italy",0,0
+"854",2006,"Japan",0,1
+"855",2006,"Martinique",0,0
+"856",2006,"Mexico",0,1
+"857",2006,"Montserrat",1,0
+"858",2006,"New Zealand",1,0
+"859",2006,"Nicaragua",0,0
+"860",2006,"North Korea",0,0
+"861",2006,"Pacific Ocean",0,0
+"862",2006,"Papua New Guinea",0,0
+"863",2006,"Peru",0,1
+"864",2006,"Philippines",2,0
+"865",2006,"Portugal",0,0
+"866",2006,"Russia",0,2
+"867",2006,"Saint Vincent and the Grenadines",0,0
+"868",2006,"Samoa",0,1
+"869",2006,"Saudi Arabia",0,0
+"870",2006,"Solomon Islands",0,0
+"871",2006,"Spain",0,0
+"872",2006,"Taiwan",0,2
+"873",2006,"Tanzania",0,0
+"874",2006,"Tonga",0,1
+"875",2006,"Trinidad and Tobago",0,2
+"876",2006,"Turkey",0,1
+"877",2006,"United States",0,1
+"878",2006,"Vanuatu",0,0
+"879",2006,"World",7,61
+"880",2006,"Yemen",0,0
+"881",2007,"Antarctica",0,0
+"882",2007,"Cameroon",0,0
+"883",2007,"Canada",0,0
+"884",2007,"Chile",0,3
+"885",2007,"China",0,4
+"886",2007,"Colombia",1,2
+"887",2007,"Costa Rica",0,0
+"888",2007,"Ecuador",0,2
+"889",2007,"El Salvador",0,0
+"890",2007,"Eritrea",0,0
+"891",2007,"Ethiopia",0,0
+"892",2007,"Greece",0,1
+"893",2007,"Guadeloupe",0,0
+"894",2007,"Guatemala",0,1
+"895",2007,"Iceland",0,0
+"896",2007,"Indonesia",1,9
+"897",2007,"Italy",0,0
+"898",2007,"Japan",0,4
+"899",2007,"Martinique",0,1
+"900",2007,"Mexico",0,1
+"901",2007,"Montserrat",0,0
+"902",2007,"New Zealand",0,3
+"903",2007,"Nicaragua",0,0
+"904",2007,"North Korea",0,0
+"905",2007,"Pacific Ocean",0,0
+"906",2007,"Papua New Guinea",1,0
+"907",2007,"Peru",0,1
+"908",2007,"Philippines",0,2
+"909",2007,"Portugal",0,0
+"910",2007,"Russia",0,2
+"911",2007,"Saint Vincent and the Grenadines",0,0
+"912",2007,"Samoa",0,0
+"913",2007,"Saudi Arabia",0,0
+"914",2007,"Solomon Islands",0,2
+"915",2007,"Spain",0,0
+"916",2007,"Taiwan",0,0
+"917",2007,"Tanzania",0,0
+"918",2007,"Tonga",0,0
+"919",2007,"Trinidad and Tobago",0,0
+"920",2007,"Turkey",0,4
+"921",2007,"United States",0,6
+"922",2007,"Vanuatu",0,2
+"923",2007,"World",4,67
+"924",2007,"Yemen",1,0
+"925",2008,"Antarctica",0,0
+"926",2008,"Cameroon",0,0
+"927",2008,"Canada",0,0
+"928",2008,"Chile",1,0
+"929",2008,"China",0,15
+"930",2008,"Colombia",1,1
+"931",2008,"Costa Rica",0,1
+"932",2008,"Ecuador",1,0
+"933",2008,"El Salvador",0,0
+"934",2008,"Eritrea",0,0
+"935",2008,"Ethiopia",0,0
+"936",2008,"Greece",0,1
+"937",2008,"Guadeloupe",0,0
+"938",2008,"Guatemala",0,2
+"939",2008,"Iceland",0,1
+"940",2008,"Indonesia",0,6
+"941",2008,"Italy",0,0
+"942",2008,"Japan",0,5
+"943",2008,"Martinique",0,0
+"944",2008,"Mexico",0,1
+"945",2008,"Montserrat",0,0
+"946",2008,"New Zealand",0,1
+"947",2008,"Nicaragua",0,0
+"948",2008,"North Korea",0,0
+"949",2008,"Pacific Ocean",0,0
+"950",2008,"Papua New Guinea",0,0
+"951",2008,"Peru",0,3
+"952",2008,"Philippines",0,1
+"953",2008,"Portugal",0,0
+"954",2008,"Russia",0,3
+"955",2008,"Saint Vincent and the Grenadines",0,0
+"956",2008,"Samoa",0,0
+"957",2008,"Saudi Arabia",0,0
+"958",2008,"Solomon Islands",0,0
+"959",2008,"Spain",0,0
+"960",2008,"Taiwan",0,0
+"961",2008,"Tanzania",0,0
+"962",2008,"Tonga",0,0
+"963",2008,"Trinidad and Tobago",0,0
+"964",2008,"Turkey",0,1
+"965",2008,"United States",1,4
+"966",2008,"Vanuatu",0,1
+"967",2008,"World",4,77
+"968",2008,"Yemen",0,0
+"969",2009,"Antarctica",0,0
+"970",2009,"Cameroon",0,0
+"971",2009,"Canada",0,0
+"972",2009,"Chile",0,0
+"973",2009,"China",0,6
+"974",2009,"Colombia",0,0
+"975",2009,"Costa Rica",0,1
+"976",2009,"Ecuador",0,1
+"977",2009,"El Salvador",0,0
+"978",2009,"Eritrea",0,0
+"979",2009,"Ethiopia",0,0
+"980",2009,"Greece",0,0
+"981",2009,"Guadeloupe",0,0
+"982",2009,"Guatemala",0,0
+"983",2009,"Iceland",0,0
+"984",2009,"Indonesia",0,9
+"985",2009,"Italy",0,2
+"986",2009,"Japan",0,2
+"987",2009,"Martinique",0,0
+"988",2009,"Mexico",0,1
+"989",2009,"Montserrat",0,0
+"990",2009,"New Zealand",0,1
+"991",2009,"Nicaragua",0,1
+"992",2009,"North Korea",0,0
+"993",2009,"Pacific Ocean",0,0
+"994",2009,"Papua New Guinea",0,0
+"995",2009,"Peru",0,1
+"996",2009,"Philippines",0,1
+"997",2009,"Portugal",0,0
+"998",2009,"Russia",0,1
+"999",2009,"Saint Vincent and the Grenadines",0,0
+"1000",2009,"Samoa",0,1
+"1001",2009,"Saudi Arabia",0,2
+"1002",2009,"Solomon Islands",0,1
+"1003",2009,"Spain",0,0
+"1004",2009,"Taiwan",0,1
+"1005",2009,"Tanzania",0,0
+"1006",2009,"Tonga",0,1
+"1007",2009,"Trinidad and Tobago",0,0
+"1008",2009,"Turkey",0,0
+"1009",2009,"United States",2,0
+"1010",2009,"Vanuatu",0,3
+"1011",2009,"World",2,60
+"1012",2009,"Yemen",0,0
+"1013",2010,"Antarctica",0,0
+"1014",2010,"Cameroon",0,0
+"1015",2010,"Canada",0,1
+"1016",2010,"Chile",0,2
+"1017",2010,"China",0,5
+"1018",2010,"Colombia",0,0
+"1019",2010,"Costa Rica",0,0
+"1020",2010,"Ecuador",2,1
+"1021",2010,"El Salvador",0,0
+"1022",2010,"Eritrea",0,0
+"1023",2010,"Ethiopia",0,1
+"1024",2010,"Greece",0,0
+"1025",2010,"Guadeloupe",0,0
+"1026",2010,"Guatemala",1,0
+"1027",2010,"Iceland",1,0
+"1028",2010,"Indonesia",4,5
+"1029",2010,"Italy",0,0
+"1030",2010,"Japan",0,2
+"1031",2010,"Martinique",0,0
+"1032",2010,"Mexico",0,2
+"1033",2010,"Montserrat",0,0
+"1034",2010,"New Zealand",0,5
+"1035",2010,"Nicaragua",0,0
+"1036",2010,"North Korea",0,0
+"1037",2010,"Pacific Ocean",0,0
+"1038",2010,"Papua New Guinea",0,0
+"1039",2010,"Peru",0,1
+"1040",2010,"Philippines",0,1
+"1041",2010,"Portugal",0,0
+"1042",2010,"Russia",0,0
+"1043",2010,"Saint Vincent and the Grenadines",0,0
+"1044",2010,"Samoa",0,0
+"1045",2010,"Saudi Arabia",0,0
+"1046",2010,"Solomon Islands",0,3
+"1047",2010,"Spain",0,0
+"1048",2010,"Taiwan",0,1
+"1049",2010,"Tanzania",0,0
+"1050",2010,"Tonga",0,0
+"1051",2010,"Trinidad and Tobago",0,0
+"1052",2010,"Turkey",0,1
+"1053",2010,"United States",1,3
+"1054",2010,"Vanuatu",0,2
+"1055",2010,"World",9,62
+"1056",2010,"Yemen",0,0
+"1057",2011,"Antarctica",0,0
+"1058",2011,"Cameroon",0,0
+"1059",2011,"Canada",0,0
+"1060",2011,"Chile",1,1
+"1061",2011,"China",0,10
+"1062",2011,"Colombia",0,0
+"1063",2011,"Costa Rica",0,0
+"1064",2011,"Ecuador",1,1
+"1065",2011,"El Salvador",0,1
+"1066",2011,"Eritrea",1,0
+"1067",2011,"Ethiopia",0,0
+"1068",2011,"Greece",0,0
+"1069",2011,"Guadeloupe",0,0
+"1070",2011,"Guatemala",0,1
+"1071",2011,"Iceland",1,0
+"1072",2011,"Indonesia",4,2
+"1073",2011,"Italy",0,0
+"1074",2011,"Japan",1,7
+"1075",2011,"Martinique",0,0
+"1076",2011,"Mexico",0,1
+"1077",2011,"Montserrat",0,0
+"1078",2011,"New Zealand",0,4
+"1079",2011,"Nicaragua",0,0
+"1080",2011,"North Korea",0,0
+"1081",2011,"Pacific Ocean",0,0
+"1082",2011,"Papua New Guinea",0,0
+"1083",2011,"Peru",0,1
+"1084",2011,"Philippines",1,2
+"1085",2011,"Portugal",0,0
+"1086",2011,"Russia",0,1
+"1087",2011,"Saint Vincent and the Grenadines",0,0
+"1088",2011,"Samoa",0,0
+"1089",2011,"Saudi Arabia",0,0
+"1090",2011,"Solomon Islands",0,0
+"1091",2011,"Spain",0,1
+"1092",2011,"Taiwan",0,0
+"1093",2011,"Tanzania",0,0
+"1094",2011,"Tonga",0,0
+"1095",2011,"Trinidad and Tobago",0,0
+"1096",2011,"Turkey",0,3
+"1097",2011,"United States",0,7
+"1098",2011,"Vanuatu",0,3
+"1099",2011,"World",10,59
+"1100",2011,"Yemen",0,0
+"1101",2012,"Antarctica",0,0
+"1102",2012,"Cameroon",0,0
+"1103",2012,"Canada",0,1
+"1104",2012,"Chile",0,3
+"1105",2012,"China",0,5
+"1106",2012,"Colombia",0,0
+"1107",2012,"Costa Rica",0,1
+"1108",2012,"Ecuador",0,0
+"1109",2012,"El Salvador",0,0
+"1110",2012,"Eritrea",0,0
+"1111",2012,"Ethiopia",0,0
+"1112",2012,"Greece",0,0
+"1113",2012,"Guadeloupe",0,0
+"1114",2012,"Guatemala",0,1
+"1115",2012,"Iceland",0,0
+"1116",2012,"Indonesia",0,5
+"1117",2012,"Italy",0,3
+"1118",2012,"Japan",0,2
+"1119",2012,"Martinique",0,0
+"1120",2012,"Mexico",0,1
+"1121",2012,"Montserrat",0,0
+"1122",2012,"New Zealand",0,0
+"1123",2012,"Nicaragua",0,1
+"1124",2012,"North Korea",0,0
+"1125",2012,"Pacific Ocean",0,0
+"1126",2012,"Papua New Guinea",0,0
+"1127",2012,"Peru",0,1
+"1128",2012,"Philippines",0,4
+"1129",2012,"Portugal",0,0
+"1130",2012,"Russia",1,1
+"1131",2012,"Saint Vincent and the Grenadines",0,0
+"1132",2012,"Samoa",0,0
+"1133",2012,"Saudi Arabia",0,0
+"1134",2012,"Solomon Islands",0,1
+"1135",2012,"Spain",0,0
+"1136",2012,"Taiwan",0,1
+"1137",2012,"Tanzania",0,0
+"1138",2012,"Tonga",0,0
+"1139",2012,"Trinidad and Tobago",0,0
+"1140",2012,"Turkey",0,2
+"1141",2012,"United States",2,0
+"1142",2012,"Vanuatu",0,2
+"1143",2012,"World",3,48
+"1144",2012,"Yemen",0,0
+"1145",2013,"Antarctica",0,1
+"1146",2013,"Cameroon",0,0
+"1147",2013,"Canada",0,0
+"1148",2013,"Chile",0,0
+"1149",2013,"China",0,9
+"1150",2013,"Colombia",0,1
+"1151",2013,"Costa Rica",0,0
+"1152",2013,"Ecuador",0,0
+"1153",2013,"El Salvador",0,0
+"1154",2013,"Eritrea",0,0
+"1155",2013,"Ethiopia",0,0
+"1156",2013,"Greece",0,2
+"1157",2013,"Guadeloupe",0,0
+"1158",2013,"Guatemala",0,1
+"1159",2013,"Iceland",0,0
+"1160",2013,"Indonesia",4,5
+"1161",2013,"Italy",0,0
+"1162",2013,"Japan",1,3
+"1163",2013,"Martinique",0,0
+"1164",2013,"Mexico",0,1
+"1165",2013,"Montserrat",0,0
+"1166",2013,"New Zealand",1,2
+"1167",2013,"Nicaragua",0,0
+"1168",2013,"North Korea",0,0
+"1169",2013,"Pacific Ocean",0,0
+"1170",2013,"Papua New Guinea",0,0
+"1171",2013,"Peru",1,2
+"1172",2013,"Philippines",1,2
+"1173",2013,"Portugal",0,0
+"1174",2013,"Russia",0,4
+"1175",2013,"Saint Vincent and the Grenadines",0,0
+"1176",2013,"Samoa",0,0
+"1177",2013,"Saudi Arabia",0,0
+"1178",2013,"Solomon Islands",0,2
+"1179",2013,"Spain",0,0
+"1180",2013,"Taiwan",0,2
+"1181",2013,"Tanzania",0,0
+"1182",2013,"Tonga",0,0
+"1183",2013,"Trinidad and Tobago",0,0
+"1184",2013,"Turkey",0,0
+"1185",2013,"United States",0,2
+"1186",2013,"Vanuatu",0,0
+"1187",2013,"World",8,52
+"1188",2013,"Yemen",0,0
+"1189",2014,"Antarctica",0,0
+"1190",2014,"Cameroon",0,0
+"1191",2014,"Canada",0,0
+"1192",2014,"Chile",0,4
+"1193",2014,"China",0,8
+"1194",2014,"Colombia",0,1
+"1195",2014,"Costa Rica",0,0
+"1196",2014,"Ecuador",0,1
+"1197",2014,"El Salvador",0,1
+"1198",2014,"Eritrea",0,0
+"1199",2014,"Ethiopia",0,0
+"1200",2014,"Greece",0,3
+"1201",2014,"Guadeloupe",0,0
+"1202",2014,"Guatemala",0,0
+"1203",2014,"Iceland",0,0
+"1204",2014,"Indonesia",3,2
+"1205",2014,"Italy",0,0
+"1206",2014,"Japan",1,3
+"1207",2014,"Martinique",0,0
+"1208",2014,"Mexico",0,4
+"1209",2014,"Montserrat",0,0
+"1210",2014,"New Zealand",0,2
+"1211",2014,"Nicaragua",0,2
+"1212",2014,"North Korea",0,0
+"1213",2014,"Pacific Ocean",0,0
+"1214",2014,"Papua New Guinea",0,2
+"1215",2014,"Peru",0,1
+"1216",2014,"Philippines",0,1
+"1217",2014,"Portugal",0,0
+"1218",2014,"Russia",0,0
+"1219",2014,"Saint Vincent and the Grenadines",0,0
+"1220",2014,"Samoa",0,0
+"1221",2014,"Saudi Arabia",0,0
+"1222",2014,"Solomon Islands",0,2
+"1223",2014,"Spain",0,0
+"1224",2014,"Taiwan",0,0
+"1225",2014,"Tanzania",0,0
+"1226",2014,"Tonga",0,0
+"1227",2014,"Trinidad and Tobago",0,0
+"1228",2014,"Turkey",0,0
+"1229",2014,"United States",1,6
+"1230",2014,"Vanuatu",0,0
+"1231",2014,"World",6,55
+"1232",2014,"Yemen",0,0
+"1233",2015,"Antarctica",0,0
+"1234",2015,"Cameroon",0,0
+"1235",2015,"Canada",0,0
+"1236",2015,"Chile",1,2
+"1237",2015,"China",0,6
+"1238",2015,"Colombia",0,1
+"1239",2015,"Costa Rica",0,0
+"1240",2015,"Ecuador",0,0
+"1241",2015,"El Salvador",0,1
+"1242",2015,"Eritrea",0,0
+"1243",2015,"Ethiopia",0,0
+"1244",2015,"Greece",0,1
+"1245",2015,"Guadeloupe",0,0
+"1246",2015,"Guatemala",0,0
+"1247",2015,"Iceland",0,0
+"1248",2015,"Indonesia",3,3
+"1249",2015,"Italy",0,0
+"1250",2015,"Japan",0,4
+"1251",2015,"Martinique",0,0
+"1252",2015,"Mexico",0,1
+"1253",2015,"Montserrat",0,0
+"1254",2015,"New Zealand",1,0
+"1255",2015,"Nicaragua",0,0
+"1256",2015,"North Korea",0,0
+"1257",2015,"Pacific Ocean",0,0
+"1258",2015,"Papua New Guinea",1,2
+"1259",2015,"Peru",0,3
+"1260",2015,"Philippines",0,1
+"1261",2015,"Portugal",0,0
+"1262",2015,"Russia",0,0
+"1263",2015,"Saint Vincent and the Grenadines",0,0
+"1264",2015,"Samoa",0,0
+"1265",2015,"Saudi Arabia",0,0
+"1266",2015,"Solomon Islands",0,2
+"1267",2015,"Spain",0,0
+"1268",2015,"Taiwan",0,1
+"1269",2015,"Tanzania",0,0
+"1270",2015,"Tonga",0,0
+"1271",2015,"Trinidad and Tobago",0,0
+"1272",2015,"Turkey",0,0
+"1273",2015,"United States",0,1
+"1274",2015,"Vanuatu",0,1
+"1275",2015,"World",6,47
+"1276",2015,"Yemen",0,0
+"1277",2016,"Antarctica",0,0
+"1278",2016,"Cameroon",0,0
+"1279",2016,"Canada",0,0
+"1280",2016,"Chile",0,1
+"1281",2016,"China",0,2
+"1282",2016,"Colombia",0,0
+"1283",2016,"Costa Rica",0,0
+"1284",2016,"Ecuador",0,3
+"1285",2016,"El Salvador",0,0
+"1286",2016,"Eritrea",0,0
+"1287",2016,"Ethiopia",0,0
+"1288",2016,"Greece",0,0
+"1289",2016,"Guadeloupe",0,0
+"1290",2016,"Guatemala",0,0
+"1291",2016,"Iceland",0,0
+"1292",2016,"Indonesia",3,6
+"1293",2016,"Italy",0,3
+"1294",2016,"Japan",1,3
+"1295",2016,"Martinique",0,0
+"1296",2016,"Mexico",0,0
+"1297",2016,"Montserrat",0,0
+"1298",2016,"New Zealand",0,2
+"1299",2016,"Nicaragua",0,1
+"1300",2016,"North Korea",0,0
+"1301",2016,"Pacific Ocean",0,0
+"1302",2016,"Papua New Guinea",0,1
+"1303",2016,"Peru",0,2
+"1304",2016,"Philippines",0,0
+"1305",2016,"Portugal",0,0
+"1306",2016,"Russia",0,0
+"1307",2016,"Saint Vincent and the Grenadines",0,0
+"1308",2016,"Samoa",0,0
+"1309",2016,"Saudi Arabia",0,0
+"1310",2016,"Solomon Islands",0,2
+"1311",2016,"Spain",0,0
+"1312",2016,"Taiwan",0,1
+"1313",2016,"Tanzania",0,1
+"1314",2016,"Tonga",0,0
+"1315",2016,"Trinidad and Tobago",0,0
+"1316",2016,"Turkey",0,0
+"1317",2016,"United States",1,2
+"1318",2016,"Vanuatu",0,1
+"1319",2016,"World",5,47
+"1320",2016,"Yemen",0,0
+"1321",2017,"Antarctica",0,0
+"1322",2017,"Cameroon",0,0
+"1323",2017,"Canada",0,0
+"1324",2017,"Chile",0,2
+"1325",2017,"China",0,4
+"1326",2017,"Colombia",0,0
+"1327",2017,"Costa Rica",0,1
+"1328",2017,"Ecuador",0,0
+"1329",2017,"El Salvador",0,1
+"1330",2017,"Eritrea",0,0
+"1331",2017,"Ethiopia",0,0
+"1332",2017,"Greece",0,1
+"1333",2017,"Guadeloupe",0,0
+"1334",2017,"Guatemala",1,2
+"1335",2017,"Iceland",0,0
+"1336",2017,"Indonesia",4,4
+"1337",2017,"Italy",2,2
+"1338",2017,"Japan",0,0
+"1339",2017,"Martinique",0,0
+"1340",2017,"Mexico",0,3
+"1341",2017,"Montserrat",0,0
+"1342",2017,"New Zealand",0,0
+"1343",2017,"Nicaragua",0,0
+"1344",2017,"North Korea",0,0
+"1345",2017,"Pacific Ocean",0,0
+"1346",2017,"Papua New Guinea",0,1
+"1347",2017,"Peru",0,2
+"1348",2017,"Philippines",0,7
+"1349",2017,"Portugal",0,0
+"1350",2017,"Russia",0,1
+"1351",2017,"Saint Vincent and the Grenadines",0,0
+"1352",2017,"Samoa",0,0
+"1353",2017,"Saudi Arabia",0,0
+"1354",2017,"Solomon Islands",0,0
+"1355",2017,"Spain",0,0
+"1356",2017,"Taiwan",0,0
+"1357",2017,"Tanzania",0,1
+"1358",2017,"Tonga",0,0
+"1359",2017,"Trinidad and Tobago",0,0
+"1360",2017,"Turkey",0,2
+"1361",2017,"United States",0,1
+"1362",2017,"Vanuatu",1,0
+"1363",2017,"World",8,53
+"1364",2017,"Yemen",0,0
