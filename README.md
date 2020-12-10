@@ -7,5 +7,5 @@ This project seeks heighten awareness of the frequency and impacts that natural 
 
 
 # PLEASE NOTE:
-Code avaliable to any with the exception of U of C students. I am not responsible for your academic misconduct if you re-use my code.
+Code avaliable to any with the exception of U of C students. We are not responsible for your academic misconduct if you re-use this code or data.
 Review this before doing anything: https://www.ucalgary.ca/pubs/calendar/current/k.html
